@@ -1,4 +1,4 @@
-# cpu_usage_win
+# cpu_usage
 
 Get all CPU usage by process id(pid) on Windows(Linux is not supported).
 
